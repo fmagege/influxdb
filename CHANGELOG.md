@@ -7,7 +7,7 @@
 1. [12655](https://github.com/influxdata/influxdb/pull/12655): Add a variable control bar to dashboards to select values for variables.
 1. [12706](https://github.com/influxdata/influxdb/pull/12706): Add ability to add variable to script from the side menu.
 1. [12791](https://github.com/influxdata/influxdb/pull/12791): Use time range for metaqueries in Data Explorer and Cell Editor Overlay
-1. [12827](https://github.com/influxdata/influxdb/pull/12827): Fix screen tearing bug in Raw Data View
+1. [12821](https://github.com/influxdata/influxdb/pull/12821): Allow variables to be re-ordered within control bar on a dashboard.
 
 ### Bug Fixes
 
@@ -17,6 +17,7 @@
 1. [12790](https://github.com/influxdata/influxdb/pull/12790): Fix bucket creation error when changing rentention rules types.
 1. [12793](https://github.com/influxdata/influxdb/pull/12793): Fix task creation error when switching schedule types.
 1. [12805](https://github.com/influxdata/influxdb/pull/12805): Fix hidden horizonal scrollbars in flux raw data view
+1. [12827](https://github.com/influxdata/influxdb/pull/12827): Fix screen tearing bug in Raw Data View
 
 ### UI Improvements
 
